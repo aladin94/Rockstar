@@ -136,7 +136,7 @@
 }
 
 /* GTA 5 */
-.swiper-slide .content1,
+.content1,
 #navslider2 {
     font-family: "Pricedown";
 }
@@ -449,4 +449,8 @@
         margin-top: -3em;
     }
 
+}
+
+#red-content {
+    font-family: "Chinese Rocks";
 }
