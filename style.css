@@ -1,9 +1,9 @@
 /* Imports for Each Game's respective font */
-@import url(//db.onlinewebfonts.com/c/21400dc679986534519c638136d62dbf?family=Rage+Italic);
-@import url(//db.onlinewebfonts.com/c/4cca73663be210d1abb8d4c8879cd5ce?family=Pricedown);
-@import url(//db.onlinewebfonts.com/c/2105de117ec27780e99c2d425d0d5844?family=Chinese+Rocks);
-@import url(//db.onlinewebfonts.com/c/a831b9f809b26c4eccf896ff84964ade?family=Machine);
-@import url(//db.onlinewebfonts.com/c/146c398456e6a22b45102120ae8a7679?family=Narcissus);
+@import url(https://db.onlinewebfonts.com/c/21400dc679986534519c638136d62dbf?family=Rage+Italic);
+@import url(https://db.onlinewebfonts.com/c/4cca73663be210d1abb8d4c8879cd5ce?family=Pricedown);
+@import url(https://db.onlinewebfonts.com/c/2105de117ec27780e99c2d425d0d5844?family=Chinese+Rocks);
+@import url(https://db.onlinewebfonts.com/c/a831b9f809b26c4eccf896ff84964ade?family=Machine);
+@import url(https://db.onlinewebfonts.com/c/146c398456e6a22b45102120ae8a7679?family=Narcissus);
 
 [class^="swiper-button-"] {
     transition: all 0.3s ease;
