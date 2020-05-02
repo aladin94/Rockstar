@@ -5,6 +5,15 @@
 @import url(https://db.onlinewebfonts.com/c/a831b9f809b26c4eccf896ff84964ade?family=Machine);
 @import url(https://db.onlinewebfonts.com/c/146c398456e6a22b45102120ae8a7679?family=Narcissus);
 
+@font-face {font-family: "Rage Italic";
+    src: url("http://db.onlinewebfonts.com/t/21400dc679986534519c638136d62dbf.eot"); /* IE9*/
+    src: url("http://db.onlinewebfonts.com/t/21400dc679986534519c638136d62dbf.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("http://db.onlinewebfonts.com/t/21400dc679986534519c638136d62dbf.woff2") format("woff2"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/21400dc679986534519c638136d62dbf.woff") format("woff"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/21400dc679986534519c638136d62dbf.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+    url("http://db.onlinewebfonts.com/t/21400dc679986534519c638136d62dbf.svg#Rage Italic") format("svg"); /* iOS 4.1- */
+}
+
 [class^="swiper-button-"] {
     transition: all 0.3s ease;
 }
